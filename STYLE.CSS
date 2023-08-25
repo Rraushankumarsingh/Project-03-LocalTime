@@ -1,0 +1,30 @@
+#clock{
+    border-radius: 10px;
+   background-color: orange;
+    /* padding: 20px 50px; */
+    margin-top: 10px;
+    font-size: 40px;
+    width: 20%;
+    margin-left: 40%;
+
+  
+ 
+   
+    
+   
+}
+#banner{
+    text-align: center;
+    /* margin-top: 100px; */
+    color: red;
+   
+}
+.body{
+    background-color:#212121;
+   color:#fff;
+   border-radius: 5px;
+   text-align: center;
+   /* margin: 40%; */
+
+   
+}
